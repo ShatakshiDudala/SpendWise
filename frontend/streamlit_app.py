@@ -14,7 +14,7 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
-BACKEND_URL = "https://spend-wise--dudalashatakshi.replit.app/"
+BACKEND_URL = "https://spendwise-qd2i.onrender.com"
 
 # -----------------------------
 # Custom CSS
